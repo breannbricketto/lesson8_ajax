@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Breann Bricketto
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This program creates an application that displays movie information using jQuery and AJAX methods
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://breannbricketto.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use AJAX to update data.
+2. I learned what JSON is and how to use it to update data.
+3. How to add data from a webpage to the DOM.
